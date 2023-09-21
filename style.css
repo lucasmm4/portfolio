@@ -30,9 +30,9 @@ header{
     height: 750px;
     background: #FC5C7D;  
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(230, 93%, 50%, 0.54), hsla(348, 96%, 67%, 0.584)), url(../Imagenes/portafolio_5.png);  
+    background: -webkit-linear-gradient(to right, hsla(230, 93%, 50%, 0.54), hsla(348, 96%, 67%, 0.584)), url(portafolio_5.png);  
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(230, 93%, 50%, 0.54), hsla(348, 96%, 67%, 0.584)), url(../Imagenes/portafolio_5.png); 
+    background: linear-gradient(to right, hsla(230, 93%, 50%, 0.54), hsla(348, 96%, 67%, 0.584)), url(portafolio_5.png); 
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
